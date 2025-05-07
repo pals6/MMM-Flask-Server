@@ -6,7 +6,7 @@ This repository hosts the backend Flask server for the MMM (Masked Motion Modeli
 
 ## 🌐 Live Demo
 
-Deployed via Render: *(Add your Render deployment URL here)*
+Deployed via Render: * https://mmm-flask-server.onrender.com*
 
 ---
 
